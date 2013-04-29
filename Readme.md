@@ -1,0 +1,1 @@
+This class can manipulate card decks.It can add cards to a deck by adding card type rules that define identifiers to the type of cards and the number of card that will exist for each type. The class can also shuffle the cards in the deck and deal a given number of cards to each player.
